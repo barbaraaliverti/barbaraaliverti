@@ -1,5 +1,14 @@
-### Hi there 👋
+## Oi! Eu sou a Bárbara 👋
 
+* 👩🏻‍💻 Desenvolvedora front-end
+* 🌱 Aprendendo back-end
+* 💻 Estudando pelo [freeCodeCamp](https://github.com/freeCodeCamp)
+* 👯 Quero colaborar em projetos open source
+* 🎨 Aquarelista amadora
+* 🐶 Amiga dos doguinhos
+
+### Vamos conversar?
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaraaliverti/)
 <!--
 **barbaraaliverti/barbaraaliverti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
