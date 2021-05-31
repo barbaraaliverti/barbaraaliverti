@@ -16,9 +16,9 @@
 * 🎨 Aquarelista amadora
 * 🐶 Amiga dos doguinhos
 
-[![image](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://barbaraaliverti.github.io/)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaraaliverti/)
-[![image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/barbaraaliverti)
+<a href="https://barbaraaliverti.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/barbaraaliverti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/barbaraaliverti" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
 <!--
 **barbaraaliverti/barbaraaliverti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
