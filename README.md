@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Bárbara 👋
 
 * 👩🏻‍💻 Desenvolvedora front-end
-* 🌱 Aprendendo back-end
+* 🌱 Aprendendo um pouco de back-end também
 * 💻 Estudando pelo [freeCodeCamp](https://github.com/freeCodeCamp)
 * 👯 Quero colaborar em projetos open source
 * 🎨 Aquarelista amadora
