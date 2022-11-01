@@ -8,13 +8,11 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+Hi 👋
+I'm Bárbara, a former Environmental Engineer who decided to learn some coding during the pandemic and ended up going on a career transition into web development.
 
-* 👩🏻‍💻 Desenvolvedora front-end
-* 🌱 Aprendendo um pouco de back-end também
-* 💻 Estudando pelo [freeCodeCamp](https://github.com/freeCodeCamp)
-* 👯 Quero colaborar em projetos open source
-* 🎨 Aquarelista amadora
-* 🐶 Amiga dos doguinhos
+* 👩🏻‍💻 Front-end Developer
+* 🌱Learning Typescript and some back-end too
 
 <a href="https://barbaraaliverti.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/barbaraaliverti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
